@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "2144841842",
+    "project_id": "flutter-one-75177",
+    "storage_bucket": "flutter-one-75177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2144841842:android:4ce6459b2fa813d1f552eb",
+        "android_client_info": {
+          "package_name": "com.example.chaatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2144841842-uodagh40l0apt4fqhmtdar1dlh5s50m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chaatapp",
+            "certificate_hash": "8429cdaa6ca0de77073a1ef790d011a640d63207"
+          }
+        },
+        {
+          "client_id": "2144841842-v60hdjg7i1tsp5tl08f2qmr1lluo6jcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7kJROEQv-3RRmcoXPV-QX965Z32V25mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2144841842-v60hdjg7i1tsp5tl08f2qmr1lluo6jcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
